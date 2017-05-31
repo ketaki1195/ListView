@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Resource</string>
+    <string name="title">Codekul.com</string>
+    
+    <string-array name="Courses">
+        <item>Android</item>
+        <item>Spring</item>
+        <item>Web</item>
+        <item>Angular</item>
+    </string-array>
+</resources>
