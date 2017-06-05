@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="btnAlert">ALERT</string>
+    <string name="btnDate">DatePicker</string>
+    <string name="btnTime">TimePicker</string>
+    <string name="btnprogess">Progress</string>
+    <string name="btncustom">Custom</string>
+    <string name="txtDef" />
+</resources>
